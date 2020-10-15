@@ -1,0 +1,7 @@
+O que é trabalho em grupo?
+Papéis no grupo:
+Coach, analista de arquitetura, comunicação com cliente, analista de testes, analista de requisitos/documentação
+Brainstorming inicial do grupo para a atribuição dos papéis de cada membro (isso pode/deve mudar depois ao longo do projeto)
+Cada aluno individualmente é responsável pelo sucesso do grupo.
+Acusar o colega pela má qualidade do trabalho do grupo é coisa de criança (e nós somos adultos)
+Agendar exploração dos dados e conversa com o cliente para entender o problema, as questões de pesquisa e os requisitos

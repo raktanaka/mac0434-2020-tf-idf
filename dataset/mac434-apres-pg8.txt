@@ -1,0 +1,7 @@
+Cada grupo
+Trabalhará para um cliente real
+Trabalhará em colaboração com o cliente
+Trabalhará em integração contínua usando o gitlab e quaisquer outras ferramentas que julgarem apropriadas
+Utilizará uma forma de comunicação rápida (p.ex. Whatsapp, slack, ou telegram)
+Manterá o código e a documentação do seu projeto gitlab com padrão profissional de qualidade
+Terá uma sala fixa no Google Meet durante todo o semestre para suas reuniões (enviar URL para monitora)

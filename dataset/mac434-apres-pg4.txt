@@ -1,0 +1,8 @@
+Critério de avaliação
+Projeto - 50%
+7 entregas ao longo do semestre
+Nota final = (notaDadaPeloProfessorEMonitora + avaliaçãoPorPares)/2
+Presença participativa - 30%
+Regra de 3: 100% de presença = 10,0 ; 70% de presença = 0,0
+Trabalhos - 20%
+Seminário, resumo de artigo, etc.
